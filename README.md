@@ -1,5 +1,5 @@
 ## Members
-Matthew Scala, Electrical Engineering Student (2026)
+Matthew Scala, Electrical Engineering Student
 matthewscala3820@vt.edu
 
 ## Mentor
@@ -20,3 +20,4 @@ Designed, and hand-soldered a 4-layer LED board with 84 LEDs. CAD modeled and 3D
 ## Design Decisions
 
 Changed board size and added an adjustable power-supply at the end to control brightness
+
